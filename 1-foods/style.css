@@ -45,9 +45,11 @@ html {
   position: absolute;
   transform: translate(-50%, -50%);
   text-shadow: 0.2rem 0.2rem 0.2rem #000;
+  transition: 0.3s 0.3s;
 }
 
 .section1-icons i.hidden {
   transform: translate(-50%, -50%) scale(0);
+  transition: 0.3s;
 }
 /* End Section 1 */
