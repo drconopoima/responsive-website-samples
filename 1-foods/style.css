@@ -46,6 +46,7 @@ html {
   transform: translate(-50%, -50%);
   text-shadow: 0.2rem 0.2rem 0.2rem #000;
   transition: 0.3s 0.3s;
+  pointer-events: auto;
   visibility: visible;
   opacity: 1;
 }
